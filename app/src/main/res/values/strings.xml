@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AdminFaraman</string>
+    <string name="add_lawyer">اضافة محامي</string>
+    <string name="TODO">توجد هنا صورة</string>
+    <string name="email">البريد الالكتروني الخاص بالمحامي</string>
+    <string name="password">انشأ كلمة المرور</string>
+    <string name="show_lawyer">عرض المحامين</string>
+    <string name="name_of_adviser">اسم المحامي</string>
+    <string name="full_name">الاسم كاملا</string>
+    <string name="type_of_lawyers">اضافة تخصص للمحامين</string>
+    <string name="show_type_of_lawyers">عرض تخصصات المحامين</string>
+    <string name="done"> تــم</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حـذف</string>
+    <string name="is_star">من أبرز المستشارين ؟</string>
+    <string name="minutesFree">الدقائق الذي يحتاجه المستشار لتحديد السعر</string>
+    <string name="costFree">النقود الموجودة في المحفظة لاول مرة</string>
+    <string name="minutesFreeATF">الدقائق الذي يحتاجه المستشار لتحديد السعر بعد استخدام المحاولات المجانية</string>
+    <string name="numberOfTrying">عدد المحاولات المسموح بها في استخدام الدقائق المجانية</string>
+    <string name="enterNumberOfM">ادخل عدد الدقائق</string>
+    <string name="enterCostFree">ادخل عدد الشواكل المجانية</string>
+    <string name="enterNumberOfTrying">ادخل عدد المحاولات المسموح بها</string>
+    <string name="addCostFree">اضافة التكلفة المجانية</string>
+</resources>

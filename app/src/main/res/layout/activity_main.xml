@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".activity.MainActivity">
+
+    <Button
+        android:id="@+id/buttonAddLawyer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:background="@drawable/skip_button_shape"
+        android:text="@string/add_lawyer"
+        android:textColor="@android:color/white"
+        android:textStyle="italic" />
+    <Button
+        android:id="@+id/buttonAddCostFree"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:background="@drawable/skip_button_shape"
+        android:text="@string/addCostFree"
+        android:textColor="@android:color/white"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/buttonShowLawyers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:visibility="gone"
+        android:background="@drawable/skip_button_shape"
+        android:text="@string/show_lawyer"
+        android:textColor="@android:color/white"
+        android:textStyle="italic" />
+    <Button
+        android:id="@+id/buttonAddTypeOfLawyers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:visibility="gone"
+        android:background="@drawable/skip_button_shape"
+        android:text="@string/type_of_lawyers"
+        android:textColor="@android:color/white"
+        android:textStyle="italic" />
+
+
+</LinearLayout>
